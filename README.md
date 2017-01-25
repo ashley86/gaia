@@ -1,2 +1,2 @@
-# gaia
-Site web /application de l'association Gaia
+# Traddamus
+Site web de l'association Traddamus
